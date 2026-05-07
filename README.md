@@ -6,7 +6,7 @@
 
 ---
 
-## 📋 Implementation Report
+## Implementation Report
 
 ### What I Implemented
 
@@ -232,7 +232,7 @@ Manacher's Algorithm is elegant because it avoids redundant work using symmetry.
 
 ---
 
-## 📊 Program Output Section
+##  Program Output Section
 
 ### Running the Code
 
@@ -243,6 +243,8 @@ cd /Users/tsheringwangpodorji/Documents/Year3\ Sem\ II/CSF303/AS2026_CSF303_Prac
 make clean && make
 ./algorithms
 ```
+
+![img1](screenshots/algorithms.png)
 
 ### What Output Shows
 
@@ -265,7 +267,7 @@ This file contains:
 
 ---
 
-## 📸 Screenshots Section
+## Screenshots Section
 
 ### How to Take Screenshots
 
@@ -289,7 +291,7 @@ Create a `screenshots/` folder in this directory and add images showing:
 
 ---
 
-## ✅ Summary
+## Summary
 
 | Algorithm | Time | Space           | Status     |
 | --------- | ---- | --------------- | ---------- |
@@ -393,10 +395,10 @@ _m = key length, n = number of words_
 
 ## Test Summary
 
-✅ **Total Test Cases**: 25+  
-✅ **Passing**: All  
-✅ **Compilation Errors**: 0  
-✅ **Runtime Errors**: 0
+ **Total Test Cases**: 25+  
+ **Passing**: All  
+ **Compilation Errors**: 0  
+ **Runtime Errors**: 0
 
 ### Trie Tests (12 tests)
 
@@ -440,19 +442,3 @@ This submission includes:
 - ✓ Technical reflection document
 
 ---
-
-## Status
-
-✅ **Complete and Ready for Evaluation**
-
-All requirements met:
-
-- [x] Code files implemented
-- [x] Screenshots provided
-- [x] Reflection document included
-- [x] All algorithms working correctly
-- [x] Comprehensive documentation
-
----
-
-Generated: 7 May 2026
